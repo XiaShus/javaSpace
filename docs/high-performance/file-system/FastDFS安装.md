@@ -223,6 +223,16 @@ tracker_server=tracker 服务IP：22122
 
 
 
+
+
+
+
+### Docker 安装
+
+
+
+
+
 ###  Fastdfs-java-client
 
 #### 1     添加依赖
